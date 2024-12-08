@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 lignee ajouter par feature-a
-=======
 ligne ajouter par feature-b
 ligne ajouter par feature-b
->>>>>>> feature-b
+
